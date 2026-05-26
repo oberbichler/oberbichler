@@ -1,4 +1,4 @@
-### Hi, I'm Thomas! 👋
+### Hey, I'm Thomas! 👋
 
 Building things has always been my passion — from physical structures to digital tools.
 
