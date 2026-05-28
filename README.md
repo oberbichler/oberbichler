@@ -1,3 +1,5 @@
+<img width="1200" height="600" alt="banner" src="https://github.com/user-attachments/assets/dfb87aa5-4e7a-4351-8a47-488615772072" />
+
 ### Hey, I'm Thomas! 👋
 
 Building things has always been my passion — from physical structures to digital tools.
